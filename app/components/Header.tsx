@@ -12,7 +12,7 @@ export default function Header({ categories }: any) {
       }}
     >
       <h2 style={{ marginBottom: 10 }}>
-        <a href="/">Hullaba</a>
+        <a href="/">Trovr</a>
       </h2>
 
       {/*<CategoryNav categories={categories} />*/}

@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="footer-container">
 
         <div className="footer-top">
-          <h3>Hullaba</h3>
+          <h3>Trovr</h3>
           <p>
             Discover the best products recommended by real users across Reddit.
           </p>
@@ -25,7 +25,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>© {new Date().getFullYear()} Hullaba. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Trovr. All rights reserved.</p>
         </div>
 
       </div>
